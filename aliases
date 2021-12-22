@@ -1,0 +1,5 @@
+#!/bin/bash -x
+alias status="git status"
+alias push=". ~/devHelpers/push"
+alias clone="git clone"
+alias pserve="python -m SimpleHTTPServer"
