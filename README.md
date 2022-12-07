@@ -1,7 +1,13 @@
 # devHelpers
 
-do ```git clone https://github.com/timvandehey/devHelpers.git``` at home directory
+run 
 
-add ```. ~/devHelpers/aliases``` to end of ~/.bashrc
+```git clone https://github.com/timvandehey/devHelpers.git```
+
+at home directory
+
+run 
+
+```ln -s devHelpers/aliases .bash_aliases```
 
 ```exit``` and open new terminal

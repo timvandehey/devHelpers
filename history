@@ -1,0 +1,108 @@
+   1  hostnamectl
+    2  node -v
+    3  npm -v
+    4  git -v
+    5  git
+    6  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    7  exit
+    8  nvm -v
+    9  node -v
+   10  nvm install latest
+   11  nvm ls-remote
+   12  nvm install latest
+   13  nvm install 18
+   14  npm -v
+   15  npm install firebase-tools
+   16  npm install -g npm@9.1.3
+   17  npm -v
+   18  npm install firebase-tools
+   19  npm audit fix
+   20  npm audit fix --force
+   21  npm install firebase-tools
+   22  firebase login --no-login
+   23  exit
+   24  firebase
+   25  npm uninstall firebase-tools
+   26  npm install firebase-tools
+   27  firebase
+   28  npm uninstall firebase-tools
+   29  curl -sL https://firebase.tools | bash
+   30  firebase
+   31  firebase login --help
+   32  firebase login --no-localhost
+   33  git login
+   34  firebase projects:list
+   35  top
+   36  ls
+   37  https://github.com/timvandehey/devHelpers.git
+   38  git pull https://github.com/timvandehey/devHelpers.git
+   39  git clone https://github.com/timvandehey/devHelpers.git
+   40  exit
+   41  aliases
+   42  alias
+   43  ls -la
+   44  cd devHelpers/
+   45  ls
+   46  more aliases
+   47  cd ..
+   48  vi .bashrc
+   49  exit
+   50  cd devHelpers/
+   51  ls
+   52  ls -al
+   53  ls ../ -la
+   54  exit
+   55  cd devHelpers/
+   56  chmod +x *
+   57  ls -al
+   58  exit
+   59  aliases
+   60  alias
+   61  vi .bashrc
+   62  exit
+   63  vi .bashrc
+   64  exit
+   65  alias
+   66  h
+   67  history
+   68  tail .bashrc
+   69  cat ./bashrc
+   70  ls -al
+   71  cat .bashrc
+   72  ln -s devHelpers/aliases .bash_aliases
+   73  ls -la
+   74  vi .bashrc
+   75  exit
+   76  aliases
+   77  alias
+   78  git config --global credential.helper 'store'
+   79  git login
+   80  git
+   81  md code
+   82  mkdir code
+   83  cd code
+   84  clone https://github.com/timvandehey/data.git
+   85  git config --global user.signingkey D8D5919028BC9E81
+   86  clone https://github.com/timvandehey/data.git
+   87  gpg --list-secret-keys --keyid-format=long
+   88  git config --global user.signingkey D8D5919028BC9E81
+   89  gpg --list-secret-keys --keyid-format=long
+   90  git config --global commit.gpgsign true
+   91  gpg --list-secret-keys --keyid-format=long
+   92  clone https://github.com/timvandehey/data.git
+   93  git config --global user.signingkey EA152F4775391CAE!
+   94  gpg --list-secret-keys --keyid-format=long
+   95  git config --global user.email "tim.vandehey@gmail.com"
+   96  clone https://github.com/timvandehey/data.git
+   97  cd data
+   98  git status
+   99  status
+  100  cd ..
+  101  clone https://github.com/timvandehey/linuxContainerSetup.git
+  102  code .
+  103  exit
+  104  cd linuxContainerSetup/
+  105  code .
+  106  cd ../devHelpers/
+  107  code .
+  108  history
